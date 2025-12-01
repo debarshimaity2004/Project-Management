@@ -1,0 +1,28 @@
+{
+  "name": "project-management",
+  "version": "1.0.0",
+  "description": "starting backend journey",
+  "keywords": [
+    "RestAPIs",
+    "backend",
+    "management"
+  ],
+  "homepage": "https://github.com/debarshimaity2004/Project-Management#readme",
+  "bugs": {
+    "url": "https://github.com/debarshimaity2004/Project-Management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/debarshimaity2004/Project-Management.git"
+  },
+  "license": "ISC",
+  "author": "debarshi maity",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.7.3"
+  }
+}
